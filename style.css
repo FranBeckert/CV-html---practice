@@ -1,0 +1,27 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+table, th {
+    border: 1px solid;
+  }
+
+table td {
+    padding-right: 4%;
+}  
+
+img {
+    width: 250px;
+}
+
+.left {
+    background-color: black;
+    color: white;
+}
+
+.row-1 {
+    border-bottom: 2px solid black;
+}
+
